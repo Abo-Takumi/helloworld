@@ -18,10 +18,16 @@ mlist.append(newmember)
 
 ### 以下に自分を追加する ###
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 newmember = Member("伊藤圭", "よろしく")
 mlist.append(newmember)
 
 =======
+=======
+mlist = []
+newmember = Member("阿保拓実", "お願いします")
+mlist.append(newmember)
+>>>>>>> Stashed changes
 
 newmember = Member("伊美祐希", "よろしくお願いいたします。")
 mlist.append(newmember)
